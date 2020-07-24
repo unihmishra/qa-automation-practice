@@ -1,0 +1,11 @@
+ScreenShots/*
+.settings/
+.classpath
+.project
+testReports/*
+downloads/*
+src/test/resources/testData/*
+src/test/resources/unitTest.xml
+target/*
+test-output/*
+target/
